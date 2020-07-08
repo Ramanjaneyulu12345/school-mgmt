@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
-    "\\e2e",
-    "\\e2e\\src",
+    "",
     "\\src",
     "\\src\\app",
-    "\\src\\assets",
-    "\\src\\environments",
-    "\\src\\image"
+    "\\src\\app\\contact",
+    "\\src\\app\\core",
+    "\\src\\app\\core\\components",
+    "\\src\\app\\core\\components\\footer",
+    "\\src\\app\\core\\components\\header",
+    "\\src\\app\\core\\services",
+    "\\src\\environments"
   ],
+  "SelectedNode": "\\src\\app\\admission\\admission.component.ts",
   "PreviewInSolutionExplorer": false
 }
